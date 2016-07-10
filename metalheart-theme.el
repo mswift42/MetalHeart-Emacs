@@ -1,4 +1,4 @@
-;;; metalheart-theme.el --- Emacs low-contrast theme with a dark blue-green background.
+;;; metalheart-theme.el --- Low-contrast theme with a dark blue-green background.
 
 ;; Copyright (C) 2016 , Martin Haesler
 
